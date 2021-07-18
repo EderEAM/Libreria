@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\proyec\\FlutterLibreria\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "outputFile": "C:\\Users\\HP\\Documents\\GitHub\\Libreria\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\d9f29e87cd7f735d61a6593286678549\\res\\values-sw\\values-sw.xml",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\proyec\\FlutterLibreria\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\HP\\Documents\\GitHub\\Libreria\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\proyec\\FlutterLibreria\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\HP\\Documents\\GitHub\\Libreria\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
